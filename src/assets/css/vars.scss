@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+// Общие
+$body-font-family: 'Arial, Helvetica, sans-serif';
+$body-font-size: 16px;
+$body-bg-color: #ffffff;
+$width-main: 600px;
+
+/*
+// withModal / hoc
+$modal-blur-bg-color: #fff;
+$modal-bg-color: #fff;
+
+// Todo / components
+$todo-border-color: #999;
+$todo-font-title-color: #000;
+$todo-font-date-color: #333;
+$todo-hover-bg-color: #fff8ff;
+$todo-hover-button-color: #ffffff;
+
+// ParentTodo / components
+$parent-todo-bg-color: #eee;
+$parent-todo-level-bg-color: #fff8ff;
+$parent-todo-font-date-color: #333;
+$parent-todo-font-title-color: #000;
+$parent-todo-border-color: #999;
+*/
+
+// Button / buttons / UI
+$button-bg-color: #008000;
+$button-hover-bg-color: #03bd03;
+$button-font-color: #fff;
+
+/*
+@mixin font-main($ff, $fz, $lh, $ls: "") {
+  font-family: $ff;
+  font-size: $fz;
+  line-height: $lh;
+
+  @if $ls != "" {
+    letter-spacing: $ls;
+  }
+}
+*/

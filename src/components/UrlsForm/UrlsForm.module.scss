@@ -1,0 +1,21 @@
+@import '../../assets/css/vars.scss';
+
+.button {
+  background-color: $button-bg-color;
+  padding: 5px 10px;
+  margin: 10px 10px 0 0;
+  color: $button-font-color;
+  border-radius: 5px;
+  outline: none;
+  border-color: transparent;
+  cursor: pointer;
+
+  &:hover {
+    background-color: $button-hover-bg-color;
+  }
+}
+
+.send {
+  text-align: right;
+  margin: 20px 0;
+}

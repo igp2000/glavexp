@@ -1,0 +1,11 @@
+@import '../../assets/css/vars.scss';
+
+.main {
+  width: $width-main;
+  margin: 20px auto 0 auto;
+
+  H1 {
+    margin: 40px 0;
+    text-align: center;
+  }
+}
